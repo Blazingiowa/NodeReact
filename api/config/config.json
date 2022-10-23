@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "react",
+    "password": "password",
+    "database": "react",
+    "host": "db",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "react",
+    "password": "password",
+    "database": "react",
+    "host": "db",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "react",
+    "password": "password",
+    "database": "react",
+    "host": "db",
+    "dialect": "mysql"
+  }
+}
